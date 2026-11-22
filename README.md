@@ -11,4 +11,6 @@
 ## SQL-реализация
 
 - [Роль 3: DDL, аналитика и версионирование настроек](docs/04-sql-implementation.md)
+- [Роль 4: план эксплуатации БД](docs/05-dba-operations.md)
+- [Роль 5: QA-чек-лист и тестовые сценарии](docs/06-qa-checklist.md)
 - [SQL-скрипты PostgreSQL](sql/)
